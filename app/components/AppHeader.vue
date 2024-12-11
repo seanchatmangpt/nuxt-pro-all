@@ -12,6 +12,9 @@ const links = [{
 }, {
   label: 'Blog',
   to: '/blog'
+}, {
+  label: 'Dashboard',
+  to: '/dashboard'
 }]
 </script>
 
